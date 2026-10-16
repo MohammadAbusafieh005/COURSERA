@@ -1,0 +1,44 @@
+body {
+  font-size: 16px;
+  color: #111;
+  background-color: white;
+}
+
+#header-nav {
+  background-color: #999;
+  border-radius: 0;
+  border: 0;
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  font-size: 1.8em;
+  color: #111 !important;
+}
+
+#mobile-menu li {
+  text-align: center;
+  background-color: white;
+  border-bottom: 1px solid #222;
+}
+
+#mobile-menu li a {
+  color: #111;
+}
+
+.menu-section {
+  background-color: #999;
+  padding: 10px 15px 20px;
+  margin: 25px 0;
+  min-height: 1000px;
+}
+
+.menu-section h3 {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.menu-section p {
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
